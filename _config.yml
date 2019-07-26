@@ -9,3 +9,7 @@ author:
   picture: https://en.gravatar.com/userimage/8997205/827de74b9ca43aaebcd3747e980b3e58.jpeg
 twitter_username: andrewarace
 github_username: AndrewArace
+github:
+  is_project_page: false
+  is_user_page: true
+  owner_url: https://github.com/AndrewArace
