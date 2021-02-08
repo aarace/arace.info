@@ -14,3 +14,4 @@ Software Engineering Director, developer, and designer.
 ### Pages
 
 - [🗃 Recipe Box](/recipes)
+- [🔽 Downloads](/downloads)
