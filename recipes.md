@@ -1,9 +1,3 @@
----
-layout: page
-title: "🗃 Recipe Box"
-permalink: /recipes/
----
-
 ## 🗃 Recipe Box
 
 ### Meals
