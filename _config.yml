@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Andrew Arace
 logo: profile.png
-email: andrewrarace@gmail.com
+email: andrew.arace@gmail.com
 description: ""
 google_analytics: UA-663600-11
 author:
@@ -9,11 +9,11 @@ author:
   twitter: andrewarace
   picture: https://en.gravatar.com/userimage/8997205/827de74b9ca43aaebcd3747e980b3e58.jpeg
 twitter_username: andrewarace
-github_username: AndrewArace
+github_username: aarace
 github:
   is_project_page: false
   is_user_page: true
-  owner_url: https://github.com/AndrewArace
+  owner_url: https://github.com/aarace
 
 defaults:
   -

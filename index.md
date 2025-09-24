@@ -6,9 +6,9 @@ Software Engineering Director, developer, and designer.
 
 | platform     | contact                                                 |
 |:-------------|:--------------------------------------------------------|
-| keybase      | [aarace](https://keybase.io/aarace)                     |
 | linkedin     | [Andrew Arace](https://www.linkedin.com/in/andrewarace/)| 
-| email        | [andrewrarace@gmail.com](mailto:andrewrarace@gmail.com) | 
+| email        | [andrew.arace@gmail.com](mailto:andrew.arace@gmail.com) | 
+| keybase      | [aarace](https://keybase.io/aarace)                     |
 | instagram    | [aarace](https://instagram.com/aarace)                  | 
 
 ### Pages
