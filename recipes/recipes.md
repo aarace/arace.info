@@ -11,7 +11,7 @@ permalink: /recipes/
 - [Pickled Fresno Chilies](https://gist.github.com/AndrewArace/953f673e66f613e379eb18560ee99253)
 
 ### Meals
-- [Instant Pot No-Bean Chili](https://gist.github.com/AndrewArace/6b4a19f82a91e6cc12a663abc0ec4b18)
+- [Instant Pot No-Bean Chili](no-bean-chili.md)
 
 ### Desserts
 - [Sea Salt Vanilla Bean Caramels](https://gist.github.com/AndrewArace/996f221aaa1f9f04a10058dfd3eeaabf)
