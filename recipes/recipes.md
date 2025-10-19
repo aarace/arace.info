@@ -7,13 +7,13 @@ permalink: /recipes/
 ## 🗃 Recipe Box
 
 ### Snacks
-- [Cold-Pickled Carrots](https://gist.github.com/AndrewArace/4c10e462472f3ee596ec53b82b9b628c)
+- [Cold-Pickled Carrots](carrots.md)
 - [Pickled Fresno Chilies](https://gist.github.com/AndrewArace/953f673e66f613e379eb18560ee99253)
 
 ### Meals
 - [Instant Pot No-Bean Chili](no-bean-chili.md)
 
 ### Desserts
-- [Sea Salt Vanilla Bean Caramels](https://gist.github.com/AndrewArace/996f221aaa1f9f04a10058dfd3eeaabf)
+- [Sea Salt Vanilla Bean Caramels](caramels.md)
 
 [back](/)
