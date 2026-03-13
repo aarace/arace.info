@@ -77,6 +77,19 @@ a[href="/"] {
 }
 a[href="/"]:hover { color: #1a1a1a; }
 
+/* Centered full-page layout (placeholder pages) */
+main.centered {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: calc(100vh - 2.75rem);
+}
+main.centered h1 {
+  font-size: 2rem;
+  letter-spacing: -0.01em;
+  margin-bottom: 0;
+}
+
 /* Footer */
 .site-footer {
   margin-top: 3rem;
